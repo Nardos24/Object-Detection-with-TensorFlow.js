@@ -17,10 +17,10 @@ This project demonstrates real-time object detection using TensorFlow.js and the
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/object-detection.git
+   git clone https://github.com/Nardos24/Object-Detection-with-TensorFlow.js.git
    cd object-detection
 
-1. Open index.html in a modern web browser.
+2. Open index.html in a modern web browser.
 
 Note: No server setup is required; it works as a standalone web app.
 ## Usage
